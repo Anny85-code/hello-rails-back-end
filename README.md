@@ -1,24 +1,56 @@
-# README
+# Project with two apps
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> General information
+This is a Reat Rails project.
 
-Things you may want to cover:
+## Built With
+- Rails
+- React
+- Ruby
+- postgresql
 
-* Ruby version
+# Get Started
+To get a local copy up and running follow these simple steps.
 
-* System dependencies
+```bash
+$ https://github.com/Anny85-code/hello-rails-back-end.git
+$ cd hellorails
+```
 
-* Configuration
+# Installation
+Clone the repo and run bundle install in the command line to install the dependencies
 
-* Database creation
+```bash
+bundle install
+```
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+👤 **Aniekan udo**
 
-* Services (job queues, cache servers, search engines, etc.)
+- GitHub: [@Anny85-code](https://github.com/Anny85-code)
+- Twitter: [@Annyudo8](https://twitter.com/Anny_udo8)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aniekan-udo-665b65213/)
+- 
 
-* Deployment instructions
 
-* ...
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
+Contact
+Created by @Anny85-code
+
