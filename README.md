@@ -5,7 +5,6 @@ This is a Reat Rails project.
 
 ## Built With
 - Rails
-- React
 - Ruby
 - postgresql
 
@@ -22,7 +21,13 @@ Clone the repo and run bundle install in the command line to install the depende
 
 ```bash
 bundle install
+
+rails db:create
+
+rails db:migrate
 ```
+
+#### [The front end pull request](https://github.com/Anny85-code/hello-react-front-end/pull/1)
 
 ## Authors
 
