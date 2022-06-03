@@ -14,7 +14,7 @@ To get a local copy up and running follow these simple steps.
 
 ```bash
 $ https://github.com/Anny85-code/hello-rails-back-end.git
-$ cd hellorails
+$ cd hello-rails-back-end
 ```
 
 # Installation
